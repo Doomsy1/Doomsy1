@@ -1,1 +1,1 @@
-Go to [Github.com/Doomsy](https://github.com/Doomsy1)
+Go to [github.com/Doomsy](https://github.com/Doomsy1)
