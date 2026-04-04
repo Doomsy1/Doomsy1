@@ -1,3 +1,7 @@
 # Ario Barin
 
-Building sharp systems, agents, and tools.
+I build sharp systems, agents, and tools.
+
+More: [ariobarin.com](https://ariobarin.com) · [@ariobarin](https://github.com/ariobarin)
+
+Barin is my AI right-hand.
