@@ -1,1 +1,1 @@
-# Go to [github.com/ariobarin](https://github.com/arionarin)
+# Go to [github.com/ariobarin](https://github.com/ariobarin)
